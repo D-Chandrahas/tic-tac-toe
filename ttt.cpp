@@ -1,4 +1,3 @@
-//include mouse support
 #include <iostream>
 #include <string>
 #include <cstdlib>
